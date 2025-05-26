@@ -4,9 +4,9 @@ import 'simplelightbox/dist/simple-lightbox.min.css';
 const galleryItems = [
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/14/16/43/rchids-4208280__340.jpg',
+      'https://cdn.pixabay.com/photo/2019/05/14/16/43/rchids-4202820__480.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2019/05/14/16/43/rchids-4208280_1280.jpg',
+      'https://cdn.pixabay.com/photo/2019/05/14/16/43/rchids-4202820_1280.jpg',
     description: 'Hokkaido Flower',
   },
   {
@@ -32,24 +32,31 @@ const galleryItems = [
   },
   {
     preview:
-      'https://cdn.pixabay.com/photo/2020/01/05/19/16/mountains-4746272__340.jpg',
+      'https://cdn.pixabay.com/photo/2018/09/13/10/36/mountains-3674334__340.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2020/01/05/19/16/mountains-4746272_1280.jpg',
+      'https://cdn.pixabay.com/photo/2018/09/13/10/36/mountains-3674334_1280.jpg',
     description: 'Alpine Mountains',
-  },
-  {
-    preview:
-      'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272__340.jpg',
-    original:
-      'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272_1280.jpg',
-    description: 'Mountain Lake Sailing',
   },
   {
     preview:
       'https://cdn.pixabay.com/photo/2019/05/16/23/04/landscape-4208571__340.jpg',
     original:
       'https://cdn.pixabay.com/photo/2019/05/16/23/04/landscape-4208571_1280.jpg',
+    description: 'Mountain Lake Sailing',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272_1280.jpg',
     description: 'Alpine Spring Meadows',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2019/05/16/21/10/landscape-4208255__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2019/05/16/21/10/landscape-4208255_1280.jpg',
+    description: 'Nature Landscape',
   },
   {
     preview:
@@ -57,13 +64,6 @@ const galleryItems = [
     original:
       'https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843_1280.jpg',
     description: 'Lighthouse Coast Sea',
-  },
-  {
-    preview:
-      'https://cdn.pixabay.com/photo/2020/01/11/15/52/landscape-4755502__340.jpg',
-    original:
-      'https://cdn.pixabay.com/photo/2020/01/11/15/52/landscape-4755502_1280.jpg',
-    description: 'Mountain River',
   },
 ];
 
